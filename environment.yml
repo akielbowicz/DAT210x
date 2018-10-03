@@ -7,4 +7,4 @@ dependencies:
   - pandas
   - matplotlib
   - scikit-learn
-- lxml
+  - lxml
