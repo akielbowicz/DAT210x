@@ -1,0 +1,10 @@
+name: DAT210x
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - lxml
