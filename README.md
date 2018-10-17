@@ -10,6 +10,9 @@ If you haven't already, [join the course](https://www.edx.org/course/programming
 <center><img src='Images/py36.png' /></center>
 
 ## Getting Started
+ 
+ To run this repo on Binder
+ [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/akielbowicz/DAT210x.git/matplotlib)
 
  * Download and run the [Anaconda 4.3.1 Graphical Installer](https://www.continuum.io/downloads) package for your operating system (Linux, OS/X, or Windows).
 	- [Windows 64 Bit](https://repo.continuum.io/archive/Anaconda3-4.3.1-Windows-x86_64.exe)
